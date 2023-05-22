@@ -1,0 +1,9 @@
+MUST READ THIS!
+MUST READ THIS!
+
+
+-----------------------------------------------------------------------------------------------------------------------
+*RIGHT CLICK "index.html" and open it with your preferred browser (i prefer opening it using google chrome)
+-----------------------------------------------------------------------------------------------------------------------
+*If you want to check nga codings, right click "index.html" and "style.css" and open it using VSC (visual studio code)
+-----------------------------------------------------------------------------------------------------------------------
